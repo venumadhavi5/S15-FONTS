@@ -1,0 +1,27 @@
+#heading{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#para1{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+#para2{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+}
+#para3{
+    font-size: 2rem;
+    font-family: monospace;
+
+}
+#para4{
+    font-size: 2rem;
+    font-family: cursive;
+
+}
+#para5{
+    font-size: 2rem;
+    font-family: fantasy;
+}
